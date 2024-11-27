@@ -1,0 +1,6 @@
+*.jpg
+*.webm
+*.ogv
+*mp4
+/firstProject/src/img
+/firstProject/src/video
