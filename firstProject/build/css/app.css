@@ -1,9 +1,9 @@
 body {
-  background-color: blue;
+  background-color: red;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
 }
 
 h2 {
   color: rgb(68, 0, 255);
 }
-
-/*# sourceMappingURL=app.css.map */

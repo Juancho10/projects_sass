@@ -1,5 +1,9 @@
+@use 'variables' as v;
+
 body{
-    background-color: blue;
+    background-color: red;
+    font-family: v.$main_font;
+    font-optical-sizing: auto;
 }
 h2{
     color: rgb(68, 0, 255);
