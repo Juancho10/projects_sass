@@ -1,0 +1,11 @@
+@use 'variables' as v;
+
+body{
+    background-color: red;
+    font-family: v.$main_font;
+    font-optical-sizing: auto;
+    color: v.$black;
+}
+h2{
+    color: rgb(68, 0, 255);
+}
