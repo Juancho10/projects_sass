@@ -1,0 +1,24 @@
+@use 'resources/variables' as v;
+
+
+.header{
+    background-color: v.$green;
+
+    .container-header{
+        padding: 2rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    h1{
+        color: v.$white;
+        margin: 0;
+    }
+}
+
+.Navegation-header{
+
+    a{
+        color: v.$white;
+    }
+}
