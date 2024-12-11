@@ -17,8 +17,12 @@
 }
 
 .Navegation-header{
-
+    display: flex;
+    gap: 2rem;
     a{
         color: v.$white;
+        &:hover{
+            color: v.$yellow;
+        }
     }
 }

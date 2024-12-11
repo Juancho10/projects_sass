@@ -385,6 +385,13 @@ body > section {
   margin: 0;
 }
 
+.Navegation-header {
+  display: flex;
+  gap: 2rem;
+}
 .Navegation-header a {
   color: #FFFFFF;
+}
+.Navegation-header a:hover {
+  color: #fdda00;
 }
